@@ -1,0 +1,6 @@
+VM link: https://drive.google.com/open?id=0ByatLxAqtgoqckVEeGZ4TE1faVE
+
+OS user: root:packt2016
+Phpmyadmin: 127.0.0.1/phpmyadmin -> root:packt2026
+URL vulnerable application: http://www.scruffybank.com (from inside the VM)
+
