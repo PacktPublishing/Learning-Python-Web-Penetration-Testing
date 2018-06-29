@@ -54,7 +54,8 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 * Python Penetration Testing Cookbook [[Packt]](https://www.packtpub.com/networking-and-servers/python-penetration-testing-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781784399771) [[Amazon]](https://www.amazon.com/dp/1784399779)
 
 ## Get to Know the Author
-**Christian Martorella** has been working in the field of information security for the last 18 years and is currently leading the product security team for Skyscanner. Earlier, he was the principal program manager in the Skype product security team at Microsoft. His current focus is security engineering and automation. He has contributed to open source security testing tools such as Wfuzz, theHarvester, and Metagoofil, all included in Kali, the penetration testing Linux distribution.
+**Christian Martorella**
+Christian Martorella has been working in the field of information security for the last 18 years and is currently leading the product security team for Skyscanner. Earlier, he was the principal program manager in the Skype product security team at Microsoft. His current focus is security engineering and automation. He has contributed to open source security testing tools such as Wfuzz, theHarvester, and Metagoofil, all included in Kali, the penetration testing Linux distribution.
 
 
 
