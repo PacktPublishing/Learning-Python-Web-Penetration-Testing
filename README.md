@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Learning Python Web Penetration Testing
 
 <a href="https://www.packtpub.com/networking-and-servers/learning-python-web-penetration-testing?utm_source=github&utm_medium=repository&utm_campaign=9781789533972"><img src="https://www.packtpub.com/sites/default/files/9781789533972%20-%20Copy_0.png" alt="Learning Python Web Penetration Testing" height="256px" align="right"></a>
