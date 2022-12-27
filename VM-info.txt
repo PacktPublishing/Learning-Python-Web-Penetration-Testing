@@ -1,4 +1,4 @@
-VM link: https://drive.google.com/open?id=0ByatLxAqtgoqckVEeGZ4TE1faVE
+VM link: https://drive.google.com/file/d/0ByatLxAqtgoqckVEeGZ4TE1faVE/view?usp=sharing&resourcekey=0-RgdNBlO6jpJK_9pMSc84uw
 
 OS user: root:packt2016
 Phpmyadmin: 127.0.0.1/phpmyadmin -> root:packt2026
